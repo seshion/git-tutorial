@@ -7,3 +7,5 @@ test (feature-A)
 test (feature-A2)
 
 test (feature-A3)
+
+test (fix-B)
