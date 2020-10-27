@@ -9,3 +9,5 @@ test (feature-A2)
 test (feature-A3)
 
 test (fix-B)
+
+test (feature-D)
