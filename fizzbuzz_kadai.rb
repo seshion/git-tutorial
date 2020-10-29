@@ -8,5 +8,6 @@ for i in 1..100 do
 	else
 	puts "#{i}"
 	end
+end
 
 
